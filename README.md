@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-#DESCRIPTION :
+# DESCRIPTION :
 In this project, I have implemented and configured cloud storage using Amazon Simple Storage Service (Amazon S3), a scalable and secure object storage service provided by Amazon Web Services (AWS). The goal of this setup was to create a reliable and cost-effective storage solution for storing and accessing files (such as images, documents, and backups) used by my application.
 
 1.Logging into AWS Console I began by logging into the AWS Management Console using my AWS account credentials. AWS provides a highly intuitive and user-friendly interface for managing its services.
@@ -41,3 +41,6 @@ For public access (e.g., images for a website), I granted public-read access to 
 
 I also defined Bucket Policies using JSON to allow or restrict access to users or roles.
 
+# OUTPUT 
+
+<img width="1366" height="636" alt="Image" src="https://github.com/user-attachments/assets/ea6d0625-df98-4497-a6b1-45ebc76041ea" />
