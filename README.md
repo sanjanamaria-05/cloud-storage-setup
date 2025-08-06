@@ -44,3 +44,4 @@ I also defined Bucket Policies using JSON to allow or restrict access to users o
 # OUTPUT 
 
 <img width="1366" height="636" alt="Image" src="https://github.com/user-attachments/assets/ea6d0625-df98-4497-a6b1-45ebc76041ea" />
+<img width="1366" height="635" alt="Image" src="https://github.com/user-attachments/assets/db391418-b7bd-45d6-b7f1-64b965f36d75" />
